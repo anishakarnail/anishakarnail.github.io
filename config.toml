@@ -1,5 +1,5 @@
 title = "Anisha Karnail"
-baseURL = "https://www.anishakarnail.com"
+baseURL = "https://anishakarnail.github.io/clearbluesoul"
 languageCode = "en-uk"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "resources"
